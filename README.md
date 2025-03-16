@@ -27,7 +27,7 @@ The application uses **Java Collections** (`HashMap`) to store and manage contac
 ### Steps to Run the Project
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/contact-book-app.git
+    git clone https://github.com/your-username/Contact-Book-Application.git
     ```
 2. Navigate to the project directory:
     ```bash
